@@ -24,9 +24,5 @@
 
 Endpoint
 - root
-  - deeper
-    - Modeeper
-      - Even more deeper
-      continue line
-      
-      test
+-- deeper
+- - deeper 2
