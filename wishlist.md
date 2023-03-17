@@ -26,6 +26,6 @@ Endpoint
 : `/listAgencies`
 
 Arguments
-    - `level` - bla-bla.
-    - `withDisabled` - should we include disabled `AGENT`s.
-    - `userId` - bla-bla.
+- `level` - bla-bla.
+- `withDisabled` - should we include disabled `AGENT`s.
+- `userId` - bla-bla.
