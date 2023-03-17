@@ -12,6 +12,10 @@
 
 [TBD]
 
+## Dice Rolls
+
+[TBD]
+
 ## Actions
 
 [TBD]
