@@ -21,3 +21,6 @@
 - Environments and events
 - Verticality
 - Opposed melee (like KT)
+
+Endpoint
+: `/listAgencies`
