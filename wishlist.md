@@ -21,8 +21,3 @@
 - Environments and events
 - Verticality
 - Opposed melee (like KT)
-
-Endpoint
-- root
--- deeper
-- - deeper 2
