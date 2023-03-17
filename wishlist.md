@@ -23,10 +23,5 @@
 - Opposed melee (like KT)
 
 Endpoint
-: `/listAgencies`
-
-Testing
-Arguments
-:- `level` - bla-bla.
-- `withDisabled` - should we include disabled `AGENT`s.
-- `userId` - bla-bla.
+- root
+    - deepr
