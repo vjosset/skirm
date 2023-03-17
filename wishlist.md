@@ -2,11 +2,11 @@
 
 - No operative tokens
 - No measuring (DZ cubes, Corridors tiles/squares)
-- Lucky dice (DZ exploding 8s, W&G "special" dice)
 - Actions
 - Fast
 - Easy
 - D6 (up or down?)
+- Lucky dice (DZ exploding 8s, W&G "special" dice)
 - Mini- & universe-agnostic
 - Mission generator - Objectives and bonuses
 - Standard weapon mods/special rules
