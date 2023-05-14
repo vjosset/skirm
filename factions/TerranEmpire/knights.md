@@ -10,7 +10,7 @@
 |---------------|:----:|:----:|:----:|:----:|:----:|
 |Knight Sergeant|3|6|4|4|15|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
-|Bolter|R|4|5|3|RR1|
+|Bolter|R|4|5|3|RR6[^RR6]|
 |Power Sword|M|4|4|4|CR2[^CR2]|
 
 ## Knight Trooper
@@ -37,7 +37,7 @@
 |---------------|:----:|:----:|:----:|:----:|:----:|
 |Knight Gunner|3|6|4|3|13|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
-|Bolter|R|4|4|3|RR1|
+|Bolter|R|4|4|3|RR6[^RR6]|
 |Grenade Launcher|R|4|5|3|BL2[^BL2]|
 |Combat Knife|M|4|4|3||
 
