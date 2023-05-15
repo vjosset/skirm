@@ -6,47 +6,47 @@
 
 ## Knight Sergeant
 
-|Agent|AP|MV|RS|MS|HP|
-|:---------------|:----:|:----:|:----:|:----:|:----:|
-|Knight Sergeant|3|6|4|4|15|
-|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
+|Agent|AP|MV|AR|HP|Special|
+|:---------------|:----:|:----:|:----:|:----:|:----|
+|Knight Sergeant|3|6|1|15||
+|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|5|3|RR6[^RR6]|
 |Power Sword|M|4|4|4|CR2[^CR2]|
 
 ## Knight Trooper
 
-|Agent|AP|MV|RS|MS|HP|
-|:---------------|:----:|:----:|:----:|:----:|:----:|
-|Knight Trooper|3|6|3|3|13|
-|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
+|Agent|AP|MV|AR|HP|Special|
+|:---------------|:----:|:----:|:----:|:----:|:----|
+|Knight Trooper|3|6|1|13|
+|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|4|3|RR6[^RR6]|
 |Combat Knife|M|4|4|3||
 
 ## Knight Striker
 
-|Agent|AP|MV|RS|MS|HP|
-|:---------------|:----:|:----:|:----:|:----:|:----:|
-|Knight Striker|3|6|3|4|13|
-|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
+|Agent|AP|MV|AR|HP|Special|
+|:---------------|:----:|:----:|:----:|:----:|:----|
+|Knight Striker|3|6|1|13||
+|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Combat Pistol|R|4|4|3|RG6[^RG6]|
 |Chain Sword|M|5|4|4||
 
 ## Knight Gunner
 
-|Agent|AP|MV|RS|MS|HP|
-|:---------------|:----:|:----:|:----:|:----:|:----:|
-|Knight Gunner|3|6|4|3|13|
-|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
+|Agent|AP|MV|AR|HP|Special|
+|:---------------|:----:|:----:|:----:|:----:|:----|
+|Knight Gunner|3|6|1|13|
+|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|4|3|RR6[^RR6]|
 |Grenade Launcher|R|4|5|3|BL2[^BL2]|
 |Combat Knife|M|4|4|3||
 
 ## Knight Technician
 
-|Agent|AP|MV|RS|MS|HP|
-|:---------------|:----:|:----:|:----:|:----:|:----:|
-|**Knight Technician**|3|6|4|3|13|
-|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**SP**|
+|Agent|AP|MV|AR|HP|Special|
+|:---------------|:----:|:----:|:----:|:----:|:----|
+|**Knight Technician**|3|6|1|13|Technician|
+|**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Combat Pistol|R|4|4|3|RG6[^RG6]|
 |Chain Sword|M|5|4|4|CR2[^CR2]|
 
