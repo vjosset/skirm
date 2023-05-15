@@ -1,23 +1,22 @@
 # Wishlist
 
-- No operative tokens
-- No measuring (DZ cubes, Corridors tiles/squares)
-- Actions
-- Fast
-- Easy
-- D6 (up or down?)
-- Lucky dice (DZ exploding 8s, W&G "special" dice)
-- Mini- & universe-agnostic
-- Mission generator - Objectives and bonuses
-- Standard weapon mods/special rules
-- Alternate activations
-- Progression/narrative
-- Coop and solo modes
-- Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
-- Events on each turn
-- Special objectives on each turn
-- Operative conversion (from KT or DZ or GDFF)
-- Special actions (DZ command dice)
-- Environments and events
-- Verticality
-- Opposed melee (like KT)
+- [ ] No operative tokens
+- [x] No measuring (DZ cubes, Corridors tiles/squares)
+- [x] Actions
+- [ ] Fast
+- [ ] Easy
+- [x] D6 (up or down?)
+- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice)
+- [x] Mini- & universe-agnostic
+- [ ] Mission generator - Objectives and bonuses
+- [ ] Standard weapon mods/special rules
+- [x] Alternate activations
+- [ ] Progression/narrative
+- [ ] Coop and solo modes
+- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
+- [ ] Environments with associated modifiers and events (one event each turn)
+- [ ] Special objectives on each turn
+- [ ] Operative conversion (from KT or DZ or GDFF)
+- [x] Special actions (DZ command dice)
+- [x] Verticality
+- [x] Opposed melee (like KT)
