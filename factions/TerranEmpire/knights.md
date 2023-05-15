@@ -58,13 +58,11 @@ Select one of the following Special Rules to add to this Agent:
 
 ------------------------------------------------
 
-## Agent Special Rules
+## Special Rules
 
 [^SH2]: **Shoot 2:** This Agent can perform the Shoot action twice in its activation.
 
 [^ML2]: **Melee 2:** This Agent can perform the Melee action twice in its activation.
-
-## Weapon Special Rules
 
 [^BL1]: **Blast 1:** Every time the Agent fires this weapon, it fires against the target and any other Agent within 1 Square of the original Target.
 
