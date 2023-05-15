@@ -8,7 +8,7 @@
 
 |Agent|AP|MV|AR|HP|Special|
 |:---------------|:----:|:----:|:----:|:----:|:----|
-|Knight Sergeant|3|6|1|15||
+|Knight Sergeant|3|6|1|15|Leader|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|5|3|RR6[^RR6]|
 |Power Sword|M|4|4|4|CR2[^CR2]|
