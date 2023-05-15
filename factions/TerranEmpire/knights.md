@@ -11,7 +11,7 @@
 |Knight Sergeant|3|6|1|15|Leader|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|5|3|RR6[^RR6]|
-|Power Sword|M|4|4|4|CR2[^CR2]|
+|Power Sword|M|4|4|8|CR2[^CR2]|
 
 ### Options
 
@@ -26,7 +26,7 @@ Select one of the following Special Rules to add to this Agent:
 |Knight Trooper|3|6|1|13|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|4|3|RR6[^RR6]|
-|Combat Knife|M|4|4|3||
+|Combat Knife|M|4|4|4||
 
 ## Knight Striker
 
@@ -35,7 +35,7 @@ Select one of the following Special Rules to add to this Agent:
 |Knight Striker|3|6|1|13||
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Combat Pistol|R|4|4|3|RG6[^RG6]|
-|Chain Sword|M|5|4|4||
+|Chain Sword|M|5|4|7||
 
 ## Knight Gunner
 
@@ -45,7 +45,7 @@ Select one of the following Special Rules to add to this Agent:
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|4|3|RR6[^RR6]|
 |Grenade Launcher|R|4|5|3|BL2[^BL1]|
-|Combat Knife|M|4|4|3||
+|Combat Knife|M|4|4|4||
 
 ## Knight Technician
 
@@ -54,7 +54,7 @@ Select one of the following Special Rules to add to this Agent:
 |**Knight Technician**|3|6|1|13|TECH|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Combat Pistol|R|4|4|3|RG6[^RG6]|
-|Chain Sword|M|5|4|4|CR2[^CR2]|
+|Chain Sword|M|5|4|7|CR2[^CR2]|
 
 ------------------------------------------------
 
