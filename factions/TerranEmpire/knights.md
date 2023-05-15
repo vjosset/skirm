@@ -8,7 +8,7 @@
 
 |Agent|AP|MV|AR|HP|Special|
 |:---------------|:----:|:----:|:----:|:----:|:----|
-|Knight Sergeant|3|6|1|15|Leader|
+|Knight Sergeant|3|6|1|15|LD2[^LD2]|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
 |Bolter|R|4|5|3|RR6[^RR6]|
 |Power Sword|M|4|4|8|CR2[^CR2]|
@@ -59,6 +59,8 @@ Select one of the following Special Rules to add to this Agent:
 ------------------------------------------------
 
 ## Special Rules
+
+[^LD2]: **Leader 2:** Roll an additional `2D6` for Tactical Orders at the start of each Turn.
 
 [^SH2]: **Shoot 2:** This Agent can perform the Shoot action twice in its activation.
 
