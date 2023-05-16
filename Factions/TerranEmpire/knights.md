@@ -10,7 +10,7 @@
 |:---------------|:----:|:----:|:----:|:----:|:----|
 |Knight Sergeant|3|6|1|15|LD2[^LD2]|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
-|Bolter|R|4|5|3|RR6[^RR6]|
+|Combat Rifle|R|4|5|3|RR6[^RR6]|
 |Power Sword|M|4|4|8|CR2[^CR2]|
 
 ### Options
@@ -25,8 +25,8 @@ Select one of the following Special Rules to add to this Agent:
 |:---------------|:----:|:----:|:----:|:----:|:----|
 |Knight Trooper|3|6|1|13|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
-|Bolter|R|4|4|3|RR6[^RR6]|
-|Combat Knife|M|4|4|4||
+|Combat Rifle|R|4|4|3|RR6[^RR6]|
+|Knife|M|4|4|4||
 
 ## Knight Striker
 
@@ -34,7 +34,7 @@ Select one of the following Special Rules to add to this Agent:
 |:---------------|:----:|:----:|:----:|:----:|:----|
 |Knight Striker|3|6|1|13||
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
-|Combat Pistol|R|4|4|3|RG6[^RG6]|
+|Sidearm|R|4|4|3|RG6[^RG6]|
 |Chain Sword|M|5|4|7||
 
 ## Knight Gunner
@@ -43,9 +43,9 @@ Select one of the following Special Rules to add to this Agent:
 |:---------------|:----:|:----:|:----:|:----:|:----|
 |Knight Gunner|3|6|1|13|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
-|Bolter|R|4|4|3|RR6[^RR6]|
-|Grenade Launcher|R|4|5|3|BL2[^BL1]|
-|Combat Knife|M|4|4|4||
+|Combat Rifle|R|4|4|3|RR6[^RR6]|
+|Grenade Launcher|R|4|5|3|BL2[^BL1] AM2[^AM2]|
+|Knife|M|4|4|4||
 
 ## Knight Technician
 
@@ -53,7 +53,7 @@ Select one of the following Special Rules to add to this Agent:
 |:---------------|:----:|:----:|:----:|:----:|:----|
 |**Knight Technician**|3|6|1|13|TECH|
 |**Weapons**|**TYP**|**ROA**|**HIT**|**DAM**|**Special**|
-|Combat Pistol|R|4|4|3|RG6[^RG6]|
+|Sidearm|R|4|4|3|RG6[^RG6]|
 |Chain Sword|M|5|4|7|CR2[^CR2]|
 
 ------------------------------------------------
@@ -69,6 +69,8 @@ Select one of the following Special Rules to add to this Agent:
 [^TECH]: **Technician:** This Agent can open or close doors for 0 `AP`.
 
 [^BL1]: **Blast 1:** Every time the Agent fires this weapon, it fires against the target and any other Agent within 1 Square of the original Target.
+
+[^AM2]: **Ammo 2:** This weapon can only be fired a maximum of twice in the battle.
 
 [^RG6]: **Range 6:** This weapon can only target Agents within 6 Squares of the shooter.
 
