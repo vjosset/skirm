@@ -66,6 +66,8 @@ Select one of the following Special Rules to add to this Agent:
 
 [^DM]: **Double Melee:** This Agent can perform the Melee action twice in its activation.
 
+[^TECH]: **Technician:** This Agent can open or close doors for 0 `AP`.
+
 [^BL1]: **Blast 1:** Every time the Agent fires this weapon, it fires against the target and any other Agent within 1 Square of the original Target.
 
 [^RG6]: **Range 6:** This weapon can only target Agents within 6 Squares of the shooter.
