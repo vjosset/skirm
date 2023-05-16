@@ -16,8 +16,8 @@
 ### Options
 
 Select one of the following Special Rules to add to this Agent:
-* SH2[^SH2]
-* ML2[^ML2]
+* DS[^DS]
+* DM[^DM]
 
 ## Knight Trooper
 
@@ -60,11 +60,11 @@ Select one of the following Special Rules to add to this Agent:
 
 ## Special Rules
 
-[^LD2]: **Leader 2:** Roll an additional `2D6` for Tactical Orders at the start of each Turn.
+[^LD2]: **Leader 2:** Gain an additional 2 Tactical Orders at the start of each Turn (in addition to your Tactical Orders roll).
 
-[^SH2]: **Shoot 2:** This Agent can perform the Shoot action twice in its activation.
+[^DS]: **Double Shoot:** This Agent can perform the Shoot action twice in its activation.
 
-[^ML2]: **Melee 2:** This Agent can perform the Melee action twice in its activation.
+[^DM]: **Double Melee:** This Agent can perform the Melee action twice in its activation.
 
 [^BL1]: **Blast 1:** Every time the Agent fires this weapon, it fires against the target and any other Agent within 1 Square of the original Target.
 
