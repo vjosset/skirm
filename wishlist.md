@@ -15,18 +15,18 @@
 - [ ] Progression/narrative
 - [ ] Coop and solo modes
 - [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
-- [x] Environments with associated modifiers and events (one event each turn) - Solved by making scenarios/missions
+- [x] Environments with associated modifiers and events (one event each turn) - **Solved by making scenarios/missions**
 - [ ] Special objectives on each turn
 - [ ] Operative conversion (from KT or DZ or GDFF)
-- [x] Special actions (DZ command dice, KT CPs)
+- [x] Special actions (DZ command dice, KT CPs) - **Tactical Orders**
 - [x] Verticality
-- [x] Opposed melee (like KT)
-- [x] Is MOV a measurement of speed/reflexes and therefore bullet avoidance? - No
+- [] Opposed melee (like KT)
+- [x] ~~Is MOV a measurement of speed/reflexes and therefore bullet avoidance?~~ - **No**
 - [x] Can we make DAM for R and M weapons comparable?
 - [ ] Introduce Magic attacks?
-- [x] Eliminate ROA by always using 3 dice, with modifiers/special rules on some weapons? (GDFF)] - No, make it explicit and simple
+- [x] ~~Eliminate ROA by always using 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [ ] Better Shoot rules to have Target roll defense
 - [ ] Better Melee rules by making it more interactive 
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
-- [x] Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF) - No, make it explicit and simple
-- [x] Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF) - No, make it explicit and simple
+- [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
+- [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
