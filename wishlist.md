@@ -21,10 +21,12 @@
 - [x] Special actions (DZ command dice, KT CPs)
 - [x] Verticality
 - [x] Opposed melee (like KT)
-- [ ] Is MOV a measurement of speed/reflexes and therefore bullet avoidance?
-- [ ] Can we make DAM for R and M weapons comparable?
+- [x] Is MOV a measurement of speed/reflexes and therefore bullet avoidance? - No
+- [x] Can we make DAM for R and M weapons comparable?
 - [ ] Introduce Magic attacks?
-- [ ] Eliminate ROA by always using 3, with modifiers/special rules on some weapons?
+- [x] Eliminate ROA by always using 3 dice, with modifiers/special rules on some weapons? (GDFF)] - No, make it explicit and simple
 - [ ] Better Shoot rules to have Target roll defense
 - [ ] Better Melee rules by making it more interactive 
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
+- [x] Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF) - No, make it explicit and simple
+- [x] Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF) - No, make it explicit and simple
