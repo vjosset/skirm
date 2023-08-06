@@ -83,3 +83,34 @@
   - Eq pts?
   - Points system?
   -  Also points on weapon selections?
+
+# Combat Rewrite (2023-08-06)
+
+- Is RC/MC (SKL) an attribute of the agent or the weapon? Or both? Summarize on weapon stat line?
+  - Both: Property of this weapon in this agent's hand
+  - No shared armory
+- Ranged combat:
+  - Roll against RC skill for each ROA
+    - Equipment may modify RC
+  - Success means bullet reached target
+  - Target rolls ARM against DAM
+    - ARM - DAM = Target to save (e.g. 7 - 4 = 3- to save)
+    - Lose 1 HP per failed save
+      - ~~Or lose DAM HP per failed save?~~ **No**
+  - Skills and equipment may modify ROF, DAM, or AR or give auto successes/saves
+    - e.g. Camo cloak (only if distance > 3 squares) for ranged combat, Dodge for melee combat
+      - Dodge and Camo may:
+        - Reduce DAM
+        - Increase AR
+        - Give free successful saves
+        - Give free re-rolls
+    - Armor Penetration does unsaveable damage
+      -  Don't roll for AR, lose HP immediately (mortal wounds)
+        - Not one per success, but maybe "your first X successes are unsaveable"?
+        - Use die roll of 1 as critical success for unsaveable DAM instead?
+- Melee combat:
+  - Same as Ranged
+  - Not opposed
+  - Opportunity for target to riposte or disengage if still standing
+  - ~~Off vs Def score for melee weapon?~~
+    - Too complicated, skipping for now
