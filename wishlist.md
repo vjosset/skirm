@@ -1,6 +1,8 @@
 # Wishlist And Notes
 
-- [ ] No operative tokens
+# Wishlist
+
+- [x] No operative tokens
 - [x] No measuring (DZ cubes, Corridors tiles/squares)
 - [x] Actions
 - [ ] Fast
@@ -20,7 +22,7 @@
 - [ ] Operative conversion (from KT or DZ or GDFF)
 - [x] Special actions (DZ command dice, KT CPs) - **Tactical Orders**
 - [x] Verticality
-- [] Opposed melee (like KT)
+- [x] ~~Opposed melee (like KT)~~ - **No**
 - [x] ~~Is MOV a measurement of speed/reflexes and therefore bullet avoidance?~~ - **No**
 - [x] Can we make DAM for R and M weapons comparable?
 - [ ] Introduce Magic attacks?
@@ -30,3 +32,54 @@
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
 - [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
+
+
+# Notes
+
+- Why dash if I can TO another full move?
+  - Because TOs are limited?
+  - Don't allow repeated actions using TOs?
+- Special actions - Is 2 TO too expensive?
+- Redo combat - Armor should apply in melee, not just shooting
+  - By making armor reduce damage?
+  - Still want defensive rolls for melee and shooting
+    - Dodge skill vs Melee skill?
+- How to still translate KT operatives to Skirm agents?
+- Melee rolls: -1 die for target? +1 die for attacker?
+  - Give an advantage to attacker
+  - Maybe special skill for melee specialists?
+    - e.g. "Melee Attack 2" -> +2 dice when attacking
+- Per team tactics
+  - Replaces ploys
+  - Must use TOs
+- Bring back special die?
+  - Explode special die on critical success?
+    - Or any success? Could have regular dice explode on critical, special die explode on any success
+  - Something else?
+  - Critical success on special die gives a TO?
+- TOs to be used to re-roll OR modify a single die's result by +/-1 (stackable)
+  - Special ability ("arcane warp mastery") for certain teams to spend TO to change opponent's roll value or force a die re-roll for double TO cost
+- Rivalries!
+  - Advantage/disadvantage vs specific teams/tags
+- Quirks
+  - Think space marine gene taints for example
+- FNP -> "Tough"
+  - e.g "Tough 3" means HP not lost on 3-, roll for every HP lost
+- Really think about X- vs X+ on rolls
+- Fewer basic actions, move others to mission actions
+- Move specialist actions to Agent skills section
+- No repeating actions, even with TOs?
+- ~~Consider agents with own weapons vs shared armory~~
+  - ~~Agents would have modifiers to weapon stats (e.g. better to-hit or RoF or DAM)~~
+    - ~~Like Warzone~~
+    - **No**
+- Need overwatch mechanism
+  - Shoot only?
+  - Any action?
+  - Spend AP during activation to set up "sentry" (= overwatch)?
+- Re-label all stats with 3 characters (ACT, MOV, ARM, HIT, TYP, ROA, SKL, DAM)
+- Squad building
+  - Predefined only?
+  - Eq pts?
+  - Points system?
+  -  Also points on weapon selections?
