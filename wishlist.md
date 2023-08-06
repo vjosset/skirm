@@ -24,7 +24,7 @@
 - [x] ~~Verticality~~
 - [x] ~~Opposed melee (like KT)~~ - **No**
 - [x] ~~Is MOV a measurement of speed/reflexes and therefore bullet avoidance?~~ - **No**
-- [x] Can we make DAM for R and M weapons comparable?
+- [x] ~~Can we make DAM for R and M weapons comparable?~~
 - [ ] Introduce Magic attacks?
 - [x] ~~Eliminate ROA by always using 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Better Shoot rules to have Target roll defense~~
