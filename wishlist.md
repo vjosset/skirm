@@ -49,8 +49,6 @@
   - Advantage/disadvantage vs specific teams/tags
 - Quirks
   - Think space marine gene taints for example
-- FNP -> "Tough"
-  - e.g "Tough 3" means HP not lost on 3-, roll for every HP lost
 - Really think about X- vs X+ on rolls
 - Need overwatch mechanism
   - Shoot only?
