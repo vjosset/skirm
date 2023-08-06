@@ -325,7 +325,7 @@
                             "squadid": "KNIGHT",
                             "eqid": "ACC",
                             "EQP": 3,
-                            "title": "Active Camo Cloak",
+                            "title": "Active Camo Cloak*",
                             "squadmax": 1,
                             "description": "The agent is equipped with an Active Camo Cloak for the battle, giving them the CAM (Camouflage) special rule.",
                             "effects": {
@@ -339,7 +339,7 @@
                             "squadid": "KNIGHT",
                             "eqid": "RFLX",
                             "EQP": 3,
-                            "title": "Enhanced Reflexes",
+                            "title": "Enhanced Reflexes*",
                             "squadmax": 1,
                             "description": "The agent has unnaturally quick reflexes, allowing them to dodge melee attacks. The Agent gains the DOD (Dodge) special rule for the battle.",
                             "effects": {
