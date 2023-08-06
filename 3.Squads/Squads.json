@@ -1,0 +1,356 @@
+{
+    "factions": {
+        "TER": {
+            "factionid": "TER",
+            "title": "Terran Empire",
+            "description": "[TBD]",
+            "squads": {
+                "KNIGHT": {
+                    "factionid": "TER",
+                    "squadid": "KNIGHT",
+                    "title": "Knights",
+                    "description": "[TBD]",
+                    "agents": {
+                        "SGT": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "agentid": "SGT",
+                            "name": "Sergeant",
+                            "description": "[TBD]",
+                            "ACT": 3,
+                            "MOV": 4,
+                            "ARM": 7,
+                            "HIT": 5,
+                            "special": "LD2",
+                            "squadmax": 1,
+                            "weapons": {
+                                "CR": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "SGT",
+                                    "wepid": "CR",
+                                    "name": "Combat Rifle",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 5,
+                                    "DAM": 3,
+                                    "special": "RR1"
+                                },
+                                "PW": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "SGT",
+                                    "wepid": "PW",
+                                    "name": "Power Sword",
+                                    "TYP": "M",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": "CR2"
+                                }
+                            },
+                            "skills": {
+                                "WC": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "SGT",
+                                    "skillid": "WC",
+                                    "TO": 1,
+                                    "name": "War Cry",
+                                    "description": "All squadmates within 5 Squares of this Agent gain +1 ROA to their Ranged and Melee weapons until the end of the Turn."
+                                }
+                            }
+                        },
+                        
+                        "GNR": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "agentid": "GNR",
+                            "name": "Gunner",
+                            "description": "[TBD]",
+                            "ACT": 3,
+                            "MOV": 4,
+                            "ARM": 7,
+                            "HIT": 4,
+                            "special": "2R",
+                            "squadmax": 1,
+                            "weapons": {
+                                "CR": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "GNR",
+                                    "wepid": "CR",
+                                    "name": "Combat Rifle",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": "RR1"
+                                },
+                                "GL": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "GNR",
+                                    "wepid": "GL",
+                                    "name": "Grenade Launcher",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 5,
+                                    "DAM": 3,
+                                    "special": "XPL"
+                                },
+                                "KN": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "GNR",
+                                    "wepid": "KN",
+                                    "name": "Knife",
+                                    "TYP": "M",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": ""
+                                }
+                            },
+                            "skills": {
+                                "AIM": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "GNR",
+                                    "skillid": "AIM",
+                                    "ACT": 2,
+                                    "name": "Aimed Shot",
+                                    "description": "The Agent aims a Ranged Weapon at a valid Target and fires that Ranged weapon at that target in an improved Shoot Action. During that Shoot Action, increase the selected Ranged Weapon's ROA by 2. For the purposes of not repeating the same Action twice, this is considered to be a Shoot Action."
+                                }
+                            }
+                        },
+                        
+                        "STRK": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "agentid": "STRK",
+                            "name": "Striker",
+                            "description": "[TBD]",
+                            "ACT": 3,
+                            "MOV": 4,
+                            "ARM": 7,
+                            "HIT": 4,
+                            "special": "2M",
+                            "squadmax": 5,
+                            "weapons": {
+                                "SA": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "STRK",
+                                    "wepid": "SA",
+                                    "name": "Sidearm",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": "RG4"
+                                },
+                                "CS": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "STRK",
+                                    "wepid": "CS",
+                                    "name": "Chainsword",
+                                    "TYP": "M",
+                                    "ROA": 5,
+                                    "SKL": 4,
+                                    "DAM": 4,
+                                    "special": ""
+                                }
+                            },
+                            "skills": {
+                                "ASS": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "STRK",
+                                    "skillid": "ASS",
+                                    "ACT": 2,
+                                    "name": "Assault",
+                                    "description": "The Agent assaults a Target with their selected Melee Weapon in an improved Melee attack. During that Melee Action, increase the selected Melee Weapon's ROA by 2. For the purposes of not repeating the same Action twice, this is considered to be a Melee Combat Action."
+                                }
+                            }
+                        },
+                        
+                        "MDC": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "agentid": "MDC",
+                            "name": "Medic",
+                            "description": "[TBD]",
+                            "ACT": 3,
+                            "MOV": 4,
+                            "ARM": 7,
+                            "HIT": 4,
+                            "special": "2M",
+                            "squadmax": 1,
+                            "weapons": {
+                                "SA": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "MDC",
+                                    "wepid": "SA",
+                                    "name": "Sidearm",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": "RG4"
+                                },
+                                "CS": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "MDC",
+                                    "wepid": "CS",
+                                    "name": "Chainsword",
+                                    "TYP": "M",
+                                    "ROA": 5,
+                                    "SKL": 4,
+                                    "DAM": 4,
+                                    "special": ""
+                                }
+                            },
+                            "skills": {
+                                "ARV": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "MDC",
+                                    "skillid": "ARV",
+                                    "ACT": 2,
+                                    "name": "Advanced Revive",
+                                    "description": "The Agent revives a Downed Agent in an Adjacent Square, restoring 4 HIT (instead of 2 HIT) to that Downed Agent after it is revived. For the purposes of not repeating the same Action twice, this is considered to be a Revive Action."
+                                },
+                                "HEAL": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "MDC",
+                                    "skillid": "HEAL",
+                                    "ACT": 2,
+                                    "name": "Heal",
+                                    "description": "The Agent restores 1D3 + 1 lost HIT to itself or another Standing Agent in an Adjacent Square. A Standing Agent healed in this fashion cannot go above its base HIT."
+                                }
+                            }
+                        },
+                        
+                        "TRP": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "agentid": "TRP",
+                            "name": "Trooper",
+                            "description": "[TBD]",
+                            "ACT": 3,
+                            "MOV": 4,
+                            "ARM": 7,
+                            "HIT": 4,
+                            "special": "",
+                            "squadmax": 5,
+                            "weapons": {
+                                "CR": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "TRP",
+                                    "wepid": "CR",
+                                    "name": "Combat Rifle",
+                                    "TYP": "R",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 3,
+                                    "special": "RR1"
+                                },
+                                "KN": {
+                                    "factionid": "TER",
+                                    "squadid": "KNIGHT",
+                                    "agentid": "TRP",
+                                    "wepid": "KN",
+                                    "name": "Knife",
+                                    "TYP": "M",
+                                    "ROA": 4,
+                                    "SKL": 4,
+                                    "DAM": 4,
+                                    "special": ""
+                                }
+                            }
+                        }
+                    },
+
+                    "equipments": {
+                        "GND": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "eqid": "GND",
+                            "EQP": 2,
+                            "title": "Grenade",
+                            "squadmax": 6,
+                            "description": "The agent is equipped with a Grenade for the battle.",
+                            "weapon": {
+                                "factionid": "TER",
+                                "squadid": "KNIGHT",
+                                "agentid": "EQ",
+                                "wepid": "GND",
+                                "name": "Grenade",
+                                "TYP": "R",
+                                "ROA": 4,
+                                "SKL": 5,
+                                "DAM": 3,
+                                "special": "XPL, LIM"
+                            }
+                        },
+                        "SSW": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "eqid": "SSW",
+                            "EQP": 2,
+                            "title": "Short Sword",
+                            "squadmax": 6,
+                            "description": "The agent is equipped with a Short Sword for the battle.",
+                            "weapon": {
+                                "factionid": "TER",
+                                "squadid": "KNIGHT",
+                                "agentid": "EQ",
+                                "wepid": "SSW",
+                                "name": "Short Sword",
+                                "TYP": "M",
+                                "ROA": 5,
+                                "SKL": 4,
+                                "DAM": 4,
+                                "special": ""
+                            }
+                        },
+                        "ACC": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "eqid": "ACC",
+                            "EQP": 3,
+                            "title": "Active Camo Cloak",
+                            "squadmax": 1,
+                            "description": "The agent is equipped with an Active Camo Cloak for the battle, giving them the CAM (Camouflage) special rule.",
+                            "effects": {
+                                "agent": {
+                                    "special": "CAM"
+                                }
+                            }
+                        },
+                        "RFLX": {
+                            "factionid": "TER",
+                            "squadid": "KNIGHT",
+                            "eqid": "RFLX",
+                            "EQP": 3,
+                            "title": "Enhanced Reflexes",
+                            "squadmax": 1,
+                            "description": "The agent has unnaturally quick reflexes, allowing them to dodge melee attacks. The Agent gains the DOD (Dodge) special rule for the battle.",
+                            "effects": {
+                                "agent": {
+                                    "special": "DOD"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
