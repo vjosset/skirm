@@ -71,7 +71,14 @@
                                     "skillid": "WC",
                                     "TO": 1,
                                     "name": "War Cry",
-                                    "description": "All squadmates within 5 Squares of this Agent gain +1 ROA to their Ranged and Melee weapons until the end of the Turn."
+                                    "description": "This Agent and all squadmates within 5 Squares of this Agent gain +1 ROA to their Ranged and Melee weapons until the end of the Turn.",
+                                    "effects": {
+                                        "squadmates": {
+                                            "weapon": {
+                                                "ROA": "+1"
+                                            }
+                                        }
+                                    }
                                 }
                             }
                         },
