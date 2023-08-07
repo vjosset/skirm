@@ -30,11 +30,15 @@
                                     "agentid": "SGT",
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
-                                    "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 5,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "TYP": "R",
+                                            "ROA": 4,
+                                            "SKL": 5,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
                                 "PW": {
                                     "factionid": "TER",
@@ -43,10 +47,14 @@
                                     "wepid": "PW",
                                     "name": "Power Sword",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "CR2"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "CR2"
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
@@ -61,7 +69,6 @@
                                 }
                             }
                         },
-                        
                         "GNR": {
                             "factionid": "TER",
                             "squadid": "KNIGHT",
@@ -82,10 +89,14 @@
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
                                 "GL": {
                                     "factionid": "TER",
@@ -94,10 +105,14 @@
                                     "wepid": "GL",
                                     "name": "Grenade Launcher",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 5,
-                                    "DAM": 3,
-                                    "special": "XPL"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 5,
+                                            "DAM": 3,
+                                            "special": "XPL"
+                                        }
+                                    ]
                                 },
                                 "KN": {
                                     "factionid": "TER",
@@ -106,10 +121,14 @@
                                     "wepid": "KN",
                                     "name": "Knife",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
@@ -124,7 +143,6 @@
                                 }
                             }
                         },
-                        
                         "STRK": {
                             "factionid": "TER",
                             "squadid": "KNIGHT",
@@ -145,10 +163,14 @@
                                     "wepid": "SA",
                                     "name": "Sidearm",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RG4"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RG4"
+                                        }
+                                    ]
                                 },
                                 "CS": {
                                     "factionid": "TER",
@@ -157,10 +179,14 @@
                                     "wepid": "CS",
                                     "name": "Chainsword",
                                     "TYP": "M",
-                                    "ROA": 5,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 5,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
@@ -175,7 +201,6 @@
                                 }
                             }
                         },
-                        
                         "MDC": {
                             "factionid": "TER",
                             "squadid": "KNIGHT",
@@ -196,10 +221,14 @@
                                     "wepid": "SA",
                                     "name": "Sidearm",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RG4"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RG4"
+                                        }
+                                    ]
                                 },
                                 "CS": {
                                     "factionid": "TER",
@@ -208,10 +237,14 @@
                                     "wepid": "CS",
                                     "name": "Chainsword",
                                     "TYP": "M",
-                                    "ROA": 5,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 5,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
@@ -235,7 +268,6 @@
                                 }
                             }
                         },
-                        
                         "TRP": {
                             "factionid": "TER",
                             "squadid": "KNIGHT",
@@ -256,10 +288,14 @@
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
                                 "KN": {
                                     "factionid": "TER",
@@ -268,15 +304,18 @@
                                     "wepid": "KN",
                                     "name": "Knife",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             }
                         }
                     },
-
                     "equipments": {
                         "GND": {
                             "factionid": "TER",
@@ -293,10 +332,14 @@
                                 "wepid": "GND",
                                 "name": "Grenade",
                                 "TYP": "R",
-                                "ROA": 4,
-                                "SKL": 5,
-                                "DAM": 3,
-                                "special": "XPL, LIM"
+                                "profiles": [
+                                    {
+                                        "ROA": 4,
+                                        "SKL": 5,
+                                        "DAM": 3,
+                                        "special": "XPL, LIM"
+                                    }
+                                ]
                             }
                         },
                         "SSW": {
@@ -314,10 +357,14 @@
                                 "wepid": "SSW",
                                 "name": "Short Sword",
                                 "TYP": "M",
-                                "ROA": 5,
-                                "SKL": 4,
-                                "DAM": 4,
-                                "special": ""
+                                "profiles": [
+                                    {
+                                        "ROA": 5,
+                                        "SKL": 4,
+                                        "DAM": 4,
+                                        "special": ""
+                                    }
+                                ]
                             }
                         },
                         "ACC": {
