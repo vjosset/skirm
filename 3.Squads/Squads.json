@@ -355,7 +355,7 @@
                             "EQP": 3,
                             "title": "Scope*",
                             "squadmax": 1,
-                            "description": "The agent's Ranged Weapon is equipped with a scope, improving their chances of hitting their target. The Agent's Ranged Weapon gains the CR2 special rule for the battle.",
+                            "description": "The agent's Ranged Weapon is equipped with a scope, improving the chances of hitting the target. The Agent's Ranged Weapon gains the CR2 special rule for the battle.",
                             "effects": {
                                 "weapon": {
                                     "filter": {
