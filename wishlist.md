@@ -37,6 +37,7 @@
 - [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
 - [ ] Reorder rulebook for more intuitive reading/browsing
+- [x] ~~Figure out overwatch~~
 
 # Names
 
