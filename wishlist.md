@@ -3,13 +3,6 @@
 # Wishlist
 
 - [ ] Rename
-  - DarkStrike: Covert Ops
-  - VoidStrike: Vendetta
-  - VoidFall: Phantom Squads
-  - Strike Patrol
-  - Patrol Squad
-  - Combat Strike
-  - StarVeil
 - [ ] Get domain
 - [ ] Build app
 - [x] ~~No operative tokens~~
@@ -45,6 +38,34 @@
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
 - [ ] Reorder rulebook for more intuitive reading/browsing
 
+# Names
+
+- DarkStrike: Covert Ops
+- VoidStrike: Vendetta
+- VoidFall: Phantom Squads
+- Strike Patrol
+- Patrol Squad
+- Combat Strike
+- StarVeil
+- Drop Strike: BEL
+- SPECTAC
+- TacStrike
+
+# Rulebook Re-Order
+
+1. Intro
+1. Gamecycle
+1. Glossary
+1. Basics
+1. StatCards
+1. BattleMaps
+1. Actions
+1. Movement
+1. Combat
+1. Line Of Sight
+1. Environments
+1. Missions and Campaigns
+1. Squads
 
 # Notes
 
@@ -70,19 +91,3 @@
   - Predefined only
   - Eq pts
 - Remove Medic from Terran Knights, but only once we have another team defined that has a Medic (just don't want to lose that write-up)
-
-# Rulebook Re-Order
-
-1. Intro
-1. Gamecycle
-1. Glossary
-1. Basics
-1. StatCards
-1. BattleMaps
-1. Actions
-1. Movement
-1. Combat
-1. Line Of Sight
-1. Environments
-1. Missions and Campaigns
-1. Squads
