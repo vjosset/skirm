@@ -1,17 +1,20 @@
 {
     "factions": {
         "TER": {
+            "ref": "factions.TER",
             "factionid": "TER",
             "title": "Terran Empire",
             "description": "[TBD]",
             "squads": {
                 "KNIGHT": {
+                    "ref": "factions.TER.squads.KNIGHT",
                     "factionid": "TER",
                     "squadid": "KNIGHT",
                     "title": "Knights",
                     "description": "[TBD]",
                     "agents": {
                         "SGT": {
+                            "ref": "factions.TER.squads.KNIGHT.agents.SGT",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "agentid": "SGT",
@@ -25,32 +28,43 @@
                             "squadmax": 1,
                             "weapons": {
                                 "CR": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.SGT.weapons.CR",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "SGT",
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
-                                    "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 5,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "TYP": "R",
+                                            "ROA": 4,
+                                            "SKL": 5,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
-                                "PW": {
+                                "PS": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.SGT.weapons.PS",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "SGT",
                                     "wepid": "PW",
                                     "name": "Power Sword",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "CR2"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "CR2"
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
                                 "WC": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.SGT.skills.WC",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "SGT",
@@ -61,8 +75,8 @@
                                 }
                             }
                         },
-                        
                         "GNR": {
+                            "ref": "factions.TER.squads.KNIGHT.agents.GNR",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "agentid": "GNR",
@@ -76,44 +90,60 @@
                             "squadmax": 1,
                             "weapons": {
                                 "CR": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.GNR.weapons.CR",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "GNR",
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
                                 "GL": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.GNR.weapons.GL",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "GNR",
                                     "wepid": "GL",
                                     "name": "Grenade Launcher",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 5,
-                                    "DAM": 3,
-                                    "special": "XPL"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 5,
+                                            "DAM": 3,
+                                            "special": "XPL"
+                                        }
+                                    ]
                                 },
                                 "KN": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.GNR.weapons.KN",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "GNR",
                                     "wepid": "KN",
                                     "name": "Knife",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
                                 "AIM": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.GNR.skills.AIM",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "GNR",
@@ -124,8 +154,8 @@
                                 }
                             }
                         },
-                        
                         "STRK": {
+                            "ref": "factions.TER.squads.KNIGHT.agents.STRK",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "agentid": "STRK",
@@ -139,32 +169,43 @@
                             "squadmax": 5,
                             "weapons": {
                                 "SA": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.STRK.weapons.SA",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "STRK",
                                     "wepid": "SA",
                                     "name": "Sidearm",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RG4"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RG4"
+                                        }
+                                    ]
                                 },
                                 "CS": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.STRK.weapons.CS",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "STRK",
                                     "wepid": "CS",
                                     "name": "Chainsword",
                                     "TYP": "M",
-                                    "ROA": 5,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 5,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
                                 "ASS": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.STRK.skills.ASS",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "STRK",
@@ -175,8 +216,8 @@
                                 }
                             }
                         },
-                        
                         "MDC": {
+                            "ref": "factions.TER.squads.KNIGHT.agents.MDC",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "agentid": "MDC",
@@ -190,32 +231,43 @@
                             "squadmax": 1,
                             "weapons": {
                                 "SA": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.MDC.weapons.SA",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "MDC",
                                     "wepid": "SA",
                                     "name": "Sidearm",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RG4"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RG4"
+                                        }
+                                    ]
                                 },
                                 "CS": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.MDC.weapons.CS",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "MDC",
                                     "wepid": "CS",
                                     "name": "Chainsword",
                                     "TYP": "M",
-                                    "ROA": 5,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 5,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             },
                             "skills": {
                                 "ARV": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.MDC.skills.ARV",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "MDC",
@@ -225,6 +277,7 @@
                                     "description": "The Agent revives a Downed Agent in an Adjacent Square, restoring 4 HIT (instead of 2 HIT) to that Downed Agent after it is revived. For the purposes of not repeating the same Action twice, this is considered to be a Revive Action."
                                 },
                                 "HEAL": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.MDC.skills.HEAL",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "MDC",
@@ -235,8 +288,8 @@
                                 }
                             }
                         },
-                        
                         "TRP": {
+                            "ref": "factions.TER.squads.KNIGHT.agents.TRP",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "agentid": "TRP",
@@ -250,35 +303,45 @@
                             "squadmax": 5,
                             "weapons": {
                                 "CR": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.TRP.weapons.CR",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "TRP",
                                     "wepid": "CR",
                                     "name": "Combat Rifle",
                                     "TYP": "R",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 3,
-                                    "special": "RR1"
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 3,
+                                            "special": "RR1"
+                                        }
+                                    ]
                                 },
                                 "KN": {
+                                    "ref": "factions.TER.squads.KNIGHT.agents.TRP.weapons.KN",
                                     "factionid": "TER",
                                     "squadid": "KNIGHT",
                                     "agentid": "TRP",
                                     "wepid": "KN",
                                     "name": "Knife",
                                     "TYP": "M",
-                                    "ROA": 4,
-                                    "SKL": 4,
-                                    "DAM": 4,
-                                    "special": ""
+                                    "profiles": [
+                                        {
+                                            "ROA": 4,
+                                            "SKL": 4,
+                                            "DAM": 4,
+                                            "special": ""
+                                        }
+                                    ]
                                 }
                             }
                         }
                     },
-
                     "equipments": {
                         "GND": {
+                            "ref": "factions.TER.squads.KNIGHT.equipments.GND",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "eqid": "GND",
@@ -287,19 +350,25 @@
                             "squadmax": 6,
                             "description": "The agent is equipped with a Grenade for the battle.",
                             "weapon": {
+                                "ref": "factions.TER.squads.KNIGHT.equipments.GND.weapon",
                                 "factionid": "TER",
                                 "squadid": "KNIGHT",
                                 "agentid": "EQ",
                                 "wepid": "GND",
                                 "name": "Grenade",
                                 "TYP": "R",
-                                "ROA": 4,
-                                "SKL": 5,
-                                "DAM": 3,
-                                "special": "XPL, LIM"
+                                "profiles": [
+                                    {
+                                        "ROA": 4,
+                                        "SKL": 5,
+                                        "DAM": 3,
+                                        "special": "XPL, LIM"
+                                    }
+                                ]
                             }
                         },
                         "SSW": {
+                            "ref": "factions.TER.squads.KNIGHT.equipments.SSW",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "eqid": "SSW",
@@ -308,19 +377,25 @@
                             "squadmax": 6,
                             "description": "The agent is equipped with a Short Sword for the battle.",
                             "weapon": {
+                                "ref": "factions.TER.squads.KNIGHT.equipments.GND.SSW",
                                 "factionid": "TER",
                                 "squadid": "KNIGHT",
                                 "agentid": "EQ",
                                 "wepid": "SSW",
                                 "name": "Short Sword",
                                 "TYP": "M",
-                                "ROA": 5,
-                                "SKL": 4,
-                                "DAM": 4,
-                                "special": ""
+                                "profiles": [
+                                    {
+                                        "ROA": 5,
+                                        "SKL": 4,
+                                        "DAM": 4,
+                                        "special": ""
+                                    }
+                                ]
                             }
                         },
                         "ACC": {
+                            "ref": "factions.TER.squads.KNIGHT.equipments.ACC",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "eqid": "ACC",
@@ -335,6 +410,7 @@
                             }
                         },
                         "RFLX": {
+                            "ref": "factions.TER.squads.KNIGHT.equipments.RFLX",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "eqid": "RFLX",
@@ -349,13 +425,14 @@
                             }
                         },
                         "SCP": {
+                            "ref": "factions.TER.squads.KNIGHT.equipments.SCP",
                             "factionid": "TER",
                             "squadid": "KNIGHT",
                             "eqid": "SCP",
                             "EQP": 3,
                             "title": "Scope*",
                             "squadmax": 1,
-                            "description": "The agent's Ranged Weapon is equipped with a scope, improving their chances of hitting their target. The Agent's Ranged Weapon gains the CR2 special rule for the battle.",
+                            "description": "The agent's Ranged Weapon is equipped with a scope, improving the chances of hitting the target. The Agent's Ranged Weapon gains the CR2 special rule for the battle.",
                             "effects": {
                                 "weapon": {
                                     "filter": {

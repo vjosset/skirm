@@ -1,6 +1,6 @@
 # Skirm
 
-## Skirm: Strike Team: Behind Enemy Lines: Elite Commando Attack Squads 
+## Skirm: Strike Team: Behind Enemy Lines: Elite Commando : Attack Patrol Squads
 
 Skirm is a miniature- and universe-agnostic table top miniatures skirmish wargame. It is intended to be easy to learn and quick to set up and play.
 
