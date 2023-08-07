@@ -2,13 +2,24 @@
 
 # Wishlist
 
+- [ ] Rename
+  - DarkStrike: Covert Ops
+  - VoidStrike: Vendetta
+  - VoidFall: Phantom Squads
+  - Strike Patrol
+  - Patrol Squad
+  - Combat Strike
+  - StarVeil
+- [ ] Get domain
+- [ ] Build app
 - [x] ~~No operative tokens~~
 - [x] ~~No measuring (DZ cubes, Corridors tiles/squares)~~
 - [x] ~~Actions~~
-- [ ] Fast
-- [ ] Easy
+- [x] ~~Fast~~
+- [x] ~~Easy~~
 - [x] ~~D6 (up or down?)~~
 - [ ] Lucky dice (DZ exploding 8s, W&G "special" dice)
+  - Still on the fence. Already have 1s count as 2 successes
 - [x] ~~Mini- & universe-agnostic~~
 - [ ] Mission generator - Objectives and bonuses
 - [x] ~~Standard weapon mods/special rules~~
@@ -32,6 +43,7 @@
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
 - [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
+- [ ] Reorder rulebook for more intuitive reading/browsing
 
 
 # Notes
@@ -57,3 +69,20 @@
 - Squad building
   - Predefined only
   - Eq pts
+- Remove Medic from Terran Knights, but only once we have another team defined that has a Medic (just don't want to lose that write-up)
+
+# Rulebook Re-Order
+
+1. Intro
+1. Gamecycle
+1. Glossary
+1. Basics
+1. StatCards
+1. BattleMaps
+1. Actions
+1. Movement
+1. Combat
+1. Line Of Sight
+1. Environments
+1. Missions and Campaigns
+1. Squads
