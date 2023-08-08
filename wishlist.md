@@ -1,42 +1,45 @@
 # Wishlist And Notes
 
-# Wishlist
+# To Do
 
 - [ ] Rename
 - [ ] Get domain
 - [ ] Build app
+- [ ] Special objectives on each turn
+- [ ] Operative conversion (from KT or DZ or GDFF)
+- [ ] Progression/narrative
+- [ ] Coop and solo modes
+- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
+- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice)
+  - Still on the fence. Already have 1s count as 2 successes
+- [ ] Mission generator - Objectives and bonuses
+- [ ] Introduce Magic attacks?
+- [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
+- [ ] Reorder rulebook for more intuitive reading/browsing
+
+## Done
+
 - [x] ~~No operative tokens~~
 - [x] ~~No measuring (DZ cubes, Corridors tiles/squares)~~
 - [x] ~~Actions~~
 - [x] ~~Fast~~
 - [x] ~~Easy~~
 - [x] ~~D6 (up or down?)~~
-- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice)
-  - Still on the fence. Already have 1s count as 2 successes
 - [x] ~~Mini- & universe-agnostic~~
-- [ ] Mission generator - Objectives and bonuses
 - [x] ~~Standard weapon mods/special rules~~
 - [x] ~~Standard operative mods/special rules~~
 - [x] ~~Alternate activations~~
-- [ ] Progression/narrative
-- [ ] Coop and solo modes
-- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
 - [x] ~~Environments with associated modifiers and events (one event each turn)~~ - **Solved by making scenarios/missions**
-- [ ] Special objectives on each turn
-- [ ] Operative conversion (from KT or DZ or GDFF)
 - [x] ~~Special actions (DZ command dice, KT CPs)~~ - **Tactical Orders**
 - [x] ~~Verticality~~
 - [x] ~~Opposed melee (like KT)~~ - **No**
 - [x] ~~Is MOV a measurement of speed/reflexes and therefore bullet avoidance?~~ - **No**
 - [x] ~~Can we make DAM for R and M weapons comparable?~~
-- [ ] Introduce Magic attacks?
 - [x] ~~Eliminate ROA by always using 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Better Shoot rules to have Target roll defense~~
 - [x] ~~Better Melee rules by making it more interactive~~
-- [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
 - [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
-- [ ] Reorder rulebook for more intuitive reading/browsing
 - [x] ~~Figure out overwatch~~
 
 # Names
@@ -70,7 +73,7 @@
 
 # Notes
 
-- How to still translate KT operatives to Skirm agents?
+- How to still translate KT operatives, weapons, actions, abilities, equipment, tacops, ploys to Skirm agents?
 - Per team tactics
   - Replaces ploys
   - Must use TOs
