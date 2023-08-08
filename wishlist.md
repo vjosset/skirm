@@ -62,6 +62,7 @@
       1. About
       1. Lore/Background
    1. The Game
+      1. Core Mechanics (dice rolls, Tactical Orders etc.)
       1. Squads and Agents
       1. Gamecycle
       1. StatCards
