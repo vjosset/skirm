@@ -62,20 +62,23 @@
       1. About
       1. Lore/Background
    1. The Game
+      1. Squads and Agents
       1. Gamecycle
       1. StatCards
-         1. Agents
-         1. Squads
    1. The Rules
       1. Actions
-      1. Movement and Distance
-         - Put battlemaps and distance here
+      1. Movement and Distance (put battlemaps and distance here)
       1. Combat
-      1. Line Of Sight
+         1. Line Of Sight
 1. Appendix
    1. Glossary
    1. Environments
 1. Missions and Campaigns
+   1. Open Play
+   1. Quick Missions
+   1. Campaigns
+      1. Derelict Ship
+      1. Relic World
 1. Squads
    1. Terran Empire
    1. Hekatron  Legions
