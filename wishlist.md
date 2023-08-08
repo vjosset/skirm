@@ -57,19 +57,29 @@
 
 # Rulebook Re-Order
 
-1. Intro
-1. Gamecycle
-1. Glossary
-1. Basics
-1. StatCards
-1. BattleMaps
-1. Actions
-1. Movement
-1. Combat
-1. Line Of Sight
-1. Environments
+1. Rules
+   1. Introduction
+      1. About
+      1. Lore/Background
+   1. The Game
+      1. Gamecycle
+      1. StatCards
+         1. Agents
+         1. Squads
+   1. The Rules
+      1. Actions
+      1. Movement and Distance
+         - Put battlemaps and distance here
+      1. Combat
+      1. Line Of Sight
+1. Appendix
+   1. Glossary
+   1. Environments
 1. Missions and Campaigns
 1. Squads
+   1. Terran Empire
+   1. Hekatron  Legions
+   1. Space Elves
 
 # Notes
 
