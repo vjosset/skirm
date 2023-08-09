@@ -91,27 +91,40 @@
 - Assault
 - Interdiction
 - Scream
+- Shadow
+- Watch
+- Nova
 
-    Voidstrike Vanguard
-    Dark Blade Assault
-    Nebula Recon Corps
-    Stellar Deathstorm
-    Quantum Covert Ops
-    Celestial Spec Commandos
-    Galactic Tempest Unit
-    Astral Veil Strike Team
-    Nexus Blade Assault
-    Voidfire Elite
-    Shadowblade Assassins
-    Astral Deathwatch
-    Quantum Storm Troopers
-    Starlight Eliminators
-    Eclipse Reconnaissance
-    Celestial Commando Corps
-    Nebula Deathstrike
-    Solaris Veil Drop
-    Stealthy Tempest Squad
-    Nova Special Forces
+VoidStrike: Galactic Assault"
+"ShadowNova: Covert Ops"
+"DeathStorm Tactics"
+"TempestWatch: Elite Squad"
+"Cosmic Recon: Void Vendetta"
+"NovaFire Commando Corps"
+"DarkBlade: Interstellar Combat"
+"Starlight Spec Ops"
+"VeilStrike: Nebula Assault"
+"TempestShadow: Death Patrol"
+"Sword of Cosmos: Spec Forces"
+"Galactic Vendetta: Tac Team"
+"Astral Assault: Elite Corps"
+"Combat Veil: Celestial Tactics"
+"VoidScream: Interdiction Force"
+"Solaris Commando: Shadow Watch"
+"StormBlade: Covert Assault"
+"NovaFire Reconnaissance"
+"Nebula Tempest: Dark Squad"
+"Firestorm Elite: Cosmic Key"
+"Interstellar Recon: Silent Strike"
+"Death Corps: Tempest Storm"
+"Sword of Shadows: Void Assault"
+"Combat Nova: Tactical Ops"
+"Veil of Vendetta: Shadow Squad"
+"Astral Deathwatch: Spec Ops"
+"Celestial Blade: Cosmic Assault"
+"Stormfire: Interstellar Team"
+"Nebula Commando: Dark Recon"
+"Void Tempest: Elite Patrol"
 
 # Rulebook Re-Order
 
