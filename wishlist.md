@@ -136,8 +136,8 @@
       1. Core Mechanics (dice rolls, Tactical Orders etc.)
       1. Squads and Agents
       1. Gamecycle
-      1. StatCards
    1. The Rules
+      1. StatCards
       1. Actions
       1. Movement and Distance (put battlemaps and distance here)
       1. Combat
