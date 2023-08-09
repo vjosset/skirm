@@ -94,6 +94,11 @@
 - Shadow
 - Watch
 - Nova
+- Blind
+- Shield
+- Vanguard
+- Silent
+- Reach
 
 "VoidStrike: Galactic Assault"
 "ShadowNova: Covert Ops"
