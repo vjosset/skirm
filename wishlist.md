@@ -44,6 +44,8 @@
 
 # Names
 
+## Examples
+
 - DarkStrike: Covert Ops
 - VoidStrike: Vendetta
 - VoidFall: Phantom Squads
@@ -54,6 +56,38 @@
 - Drop Strike: BEL
 - SPECTAC
 - TacStrike
+
+(From ChatGPT)
+- VoidStrike: Galactic Assault
+- ShadowNova: Covert Ops
+- DeathStorm Tactics
+- TempestWatch: Elite Squad
+- Cosmic Recon: Void Vendetta
+- NovaFire Commando Corps
+- DarkBlade: Interstellar Combat
+- Starlight Spec Ops
+- VeilStrike: Nebula Assault
+- TempestShadow: Death Patrol
+- Sword of Cosmos: Spec Forces
+- Galactic Vendetta: Tac Team
+- Astral Assault: Elite Corps
+- Combat Veil: Celestial Tactics
+- VoidScream: Interdiction Force
+- Solaris Commando: Shadow Watch
+- StormBlade: Covert Assault
+- NovaFire Reconnaissance
+- Nebula Tempest: Dark Squad
+- Firestorm Elite: Cosmic Key
+- Interstellar Recon: Silent Strike
+- Death Corps: Tempest Storm
+- Sword of Shadows: Void Assault
+- Combat Nova: Tactical Ops
+- Veil of Vendetta: Shadow Squad
+- Astral Deathwatch: Spec Ops
+- Celestial Blade: Cosmic Assault
+- Stormfire: Interstellar Team
+- Nebula Commando: Dark Recon
+- Void Tempest: Elite Patrol
 
 ## Keywords
 
@@ -99,37 +133,42 @@
 - Vanguard
 - Silent
 - Reach
-
-"VoidStrike: Galactic Assault"
-"ShadowNova: Covert Ops"
-"DeathStorm Tactics"
-"TempestWatch: Elite Squad"
-"Cosmic Recon: Void Vendetta"
-"NovaFire Commando Corps"
-"DarkBlade: Interstellar Combat"
-"Starlight Spec Ops"
-"VeilStrike: Nebula Assault"
-"TempestShadow: Death Patrol"
-"Sword of Cosmos: Spec Forces"
-"Galactic Vendetta: Tac Team"
-"Astral Assault: Elite Corps"
-"Combat Veil: Celestial Tactics"
-"VoidScream: Interdiction Force"
-"Solaris Commando: Shadow Watch"
-"StormBlade: Covert Assault"
-"NovaFire Reconnaissance"
-"Nebula Tempest: Dark Squad"
-"Firestorm Elite: Cosmic Key"
-"Interstellar Recon: Silent Strike"
-"Death Corps: Tempest Storm"
-"Sword of Shadows: Void Assault"
-"Combat Nova: Tactical Ops"
-"Veil of Vendetta: Shadow Squad"
-"Astral Deathwatch: Spec Ops"
-"Celestial Blade: Cosmic Assault"
-"Stormfire: Interstellar Team"
-"Nebula Commando: Dark Recon"
-"Void Tempest: Elite Patrol"
+- Stab
+- Fall
+- Dawn
+- Night
+- Dusk
+- Black
+- Spear
+- Tip
+- Gunstab
+- Hand
+- Thunder
+- Blood
+- Guard
+- Guardian
+- Break
+- Point
+- Shatter
+- Reach
+- Fore
+- Battle
+- Zone
+- War
+- Fang
+- Dread
+- Stone
+- Steel
+- Troop
+- Gear
+- Craft
+- Spine
+- Slug
+- Metal
+- Sense
+- Shrine
+- Lone
+- Cell
 
 # Rulebook Re-Order
 
@@ -138,7 +177,7 @@
       1. About
       1. Lore/Background
    1. The Game
-      1. Core Mechanics (dice rolls, Tactical Orders etc.)
+      1. Core Mechanics (Actions, dice rolls, Tactical Orders etc.)
       1. Squads and Agents
       1. Gamecycle
    1. The Rules
