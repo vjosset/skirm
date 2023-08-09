@@ -55,6 +55,64 @@
 - SPECTAC
 - TacStrike
 
+## Keywords
+
+- Void
+- Strike
+- Squad
+- Patrol
+- Tactics
+- Tac
+- Ops
+- Dark
+- Death
+- Veil
+- Drop
+- Hand
+- Blade
+- Sword
+- Gun
+- Covert
+- Recon
+- Combat
+- Key
+- Corps
+- Vendetta
+- Storm
+- Tempest
+- Spec
+- Special
+- Elite
+- Commando
+- Attack
+- Blade
+- Fire
+- Team
+- Assault
+- Interdiction
+- Scream
+
+    Voidstrike Vanguard
+    Dark Blade Assault
+    Nebula Recon Corps
+    Stellar Deathstorm
+    Quantum Covert Ops
+    Celestial Spec Commandos
+    Galactic Tempest Unit
+    Astral Veil Strike Team
+    Nexus Blade Assault
+    Voidfire Elite
+    Shadowblade Assassins
+    Astral Deathwatch
+    Quantum Storm Troopers
+    Starlight Eliminators
+    Eclipse Reconnaissance
+    Celestial Commando Corps
+    Nebula Deathstrike
+    Solaris Veil Drop
+    Stealthy Tempest Squad
+    Nova Special Forces
+
 # Rulebook Re-Order
 
 1. Rules
