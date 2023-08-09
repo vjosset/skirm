@@ -95,7 +95,7 @@
 - Watch
 - Nova
 
-VoidStrike: Galactic Assault"
+"VoidStrike: Galactic Assault"
 "ShadowNova: Covert Ops"
 "DeathStorm Tactics"
 "TempestWatch: Elite Squad"
