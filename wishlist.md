@@ -5,17 +5,16 @@
 - [ ] Rename
 - [ ] Get domain
 - [ ] Build app
+- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
+- [ ] Write "lite" rules - one or two pages max
 - [ ] Special objectives on each turn
 - [ ] Operative conversion (from KT or DZ or GDFF)
 - [ ] Progression/narrative
 - [ ] Coop and solo modes
-- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
-- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice)
-  - Still on the fence. Already have 1s count as 2 successes
+- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice) - Still on the fence. Already have 1s count as 2 successes
 - [ ] Mission generator - Objectives and bonuses
 - [ ] Introduce Magic attacks?
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
-- [ ] Reorder rulebook for more intuitive reading/browsing
 
 ## Done
 
@@ -41,6 +40,7 @@
 - [x] ~~Defense - Always use 3 dice, with modifiers/special rules on some weapons? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Figure out overwatch~~
+- [x] ~~Reorder rulebook for more intuitive reading/browsing~~
 
 # Names
 
