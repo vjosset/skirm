@@ -6,7 +6,6 @@
 - [ ] Get domain
 - [ ] Build app
 - [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
-- [ ] Write "lite" rules - one or two pages max
 - [ ] Special objectives on each turn
 - [ ] Operative conversion (from KT or DZ or GDFF)
 - [ ] Progression/narrative
@@ -18,6 +17,7 @@
 
 ## Done
 
+- [x] ~~Write "lite" rules - one or two pages max~~
 - [x] ~~No operative tokens~~
 - [x] ~~No measuring (DZ cubes, Corridors tiles/squares)~~
 - [x] ~~Actions~~
