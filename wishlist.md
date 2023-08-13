@@ -4,16 +4,18 @@
 
 - [ ] Rename
 - [ ] Get domain
-- [ ] Build app
-- [ ] Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
+- [ ] Build app  
+  Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
 - [ ] Special objectives on each turn
 - [ ] Operative conversion (from KT or DZ or GDFF)
 - [ ] Progression/narrative
 - [ ] Coop and solo modes
-- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice) - Still on the fence. Already have 1s count as 2 successes
+- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice) - Still on the fence.  
+Already have 1s count as 2 successes
 - [ ] Mission generator - Objectives and bonuses
 - [ ] Introduce Magic attacks?
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
+- [ ] Think about double success on 1s vs success chains
 
 ## Done
 
@@ -149,6 +151,7 @@
 - Infinite
 - Interdiction
 - Key
+- Lead
 - Lone
 - Lost
 - Metal
@@ -161,6 +164,7 @@
 - Phase
 - Point
 - Rage
+- Rain
 - Reach
 - Recon
 - Scream
