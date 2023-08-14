@@ -48,16 +48,18 @@ Already have 1s count as 2 successes
 
 ## Examples
 
-- DarkStrike: Covert Ops
-- VoidStrike: Vendetta
-- VoidFall: Phantom Squads
-- Strike Patrol
+- Strike Squad
+- Phantom Commandos
+- Vanguard Ops
+- Strike Team
+- Coldfire Chronicle
+- Silent Veil
+- Covert Shield
 - Patrol Squad
-- Combat Strike
-- StarVeil
-- Drop Strike: BEL
-- SPECTAC
-- TacStrike
+- Breakpoint Ops
+- Phoenix Force
+- BladeReach
+- BladePoint
 
 (From ChatGPT)
 - VoidStrike: Galactic Assault
