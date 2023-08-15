@@ -1,0 +1,168 @@
+
+# Names
+
+## Examples
+
+- Strike Squad
+- Phantom Commandos
+- Vanguard Ops
+- Strike Team
+- Coldfire Chronicle
+- Silent Veil
+- Covert Shield
+- Patrol Squad
+- Breakpoint Ops
+- Phoenix Force
+- BladeReach
+- BladePoint
+
+(From ChatGPT)
+- VoidStrike: Galactic Assault
+- ShadowNova: Covert Ops
+- DeathStorm Tactics
+- TempestWatch: Elite Squad
+- Cosmic Recon: Void Vendetta
+- NovaFire Commando Corps
+- DarkBlade: Interstellar Combat
+- Starlight Spec Ops
+- VeilStrike: Nebula Assault
+- TempestShadow: Death Patrol
+- Sword of Cosmos: Spec Forces
+- Galactic Vendetta: Tac Team
+- Astral Assault: Elite Corps
+- Combat Veil: Celestial Tactics
+- VoidScream: Interdiction Force
+- Solaris Commando: Shadow Watch
+- StormBlade: Covert Assault
+- NovaFire Reconnaissance
+- Nebula Tempest: Dark Squad
+- Firestorm Elite: Cosmic Key
+- Interstellar Recon: Silent Strike
+- Death Corps: Tempest Storm
+- Sword of Shadows: Void Assault
+- Combat Nova: Tactical Ops
+- Veil of Vendetta: Shadow Squad
+- Astral Deathwatch: Spec Ops
+- Celestial Blade: Cosmic Assault
+- Stormfire: Interstellar Team
+- Nebula Commando: Dark Recon
+- Void Tempest: Elite Patrol
+
+## Keywords
+
+- Arm
+- Ashes
+- Assault
+- Attack
+- Battle
+- Black
+- Blade
+- Blind
+- Blood
+- Break
+- Bullet
+- Cast
+- Cell
+- Chain
+- Code
+- Cold
+- Combat
+- Commando
+- Core
+- Corps
+- Covert
+- Counter
+- Cross
+- Crush
+- Curse
+- Craft
+- Dark
+- Dawn
+- Dead
+- Death
+- Doom
+- Dread
+- Drop
+- Dusk
+- Edge
+- Elite
+- Ex
+- Eye
+- Fall
+- Fang
+- Fatal
+- Fire
+- Fist
+- Force
+- Fore
+- Fury
+- Gear
+- Ghost
+- Guard
+- Guardian
+- Gun
+- Gunstab
+- Hand
+- Hidden
+- Hounds
+- Infinite
+- Interdiction
+- Key
+- Lead
+- Lone
+- Lost
+- Metal
+- Night
+- Nova
+- One
+- Ops
+- Patrol
+- Phantom
+- Phase
+- Point
+- Rage
+- Rain
+- Reach
+- Recon
+- Scream
+- Scythe
+- Secret
+- Sector
+- Sense
+- Shadow
+- Shatter
+- Shield
+- Shrine
+- Sight
+- Silent
+- Slug
+- Spear
+- Spec
+- Special
+- Spine
+- Spirit
+- Squad
+- Stab
+- Steel
+- Stone
+- Storm
+- Strike
+- Switch
+- Sword
+- Tac
+- Tactics
+- Team
+- Tempest
+- Thunder
+- Tip
+- Troop
+- Trooper
+- Ultra
+- Vanguard
+- Veil
+- Vendetta
+- Void
+- War
+- Watch
+- Works
+- Zone
