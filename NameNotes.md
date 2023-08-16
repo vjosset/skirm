@@ -3,18 +3,25 @@
 
 ## Examples
 
-- Strike Squad
-- Phantom Commandos
-- Vanguard Ops
-- Strike Team
-- Coldfire Chronicle
-- Silent Veil
-- Covert Shield
-- Patrol Squad
-- Breakpoint Ops
-- Phoenix Force
-- BladeReach
 - BladePoint
+- BladeReach
+- Breakpoint Ops
+- Coldfire Chronicle
+- Covert Shield
+- Dark Nexus
+- DarkStrike Chronicles (implies campaign/narrative)
+- DarkStrike
+- Patrol Squad
+- Phantom Commandos
+- Phantom Ops
+- **Phantom Tactics**
+- Phoenix Force
+- Silent Veil
+- Steel Dawn
+- Steelstorm Tactics
+- **Strike Squad**
+- Strike Team
+- Vanguard Ops
 
 (From ChatGPT)
 - VoidStrike: Galactic Assault
