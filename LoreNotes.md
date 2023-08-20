@@ -45,3 +45,20 @@
 - Role-Playing Game (RPG) Elements: If applicable, develop rules, character sheets, and scenarios for a role-playing game set in your universe.
 
 Remember that consistency is key when creating a sci-fi universe. Keep detailed notes, sketches, and documents to maintain coherence throughout your creative process. Allow your universe to evolve and grow over time, and don't be afraid to explore new ideas and directions as you develop your sci-fi universe.
+
+--------------
+
+# Notes
+
+- Soem leadership form called "The Hand", with five branches, each a "Finger" ("Digit"?)
+    - Digito Pollex
+    - Digito Index
+    - Digito Medius
+    - Digito Medicus/Proximus
+    - Digito Minimus  
+    OR
+    - Potentia - Govern, dictate, enforce
+    - Index - Monitor, direct, accuse
+    - Fidelis - Faith, loyalty
+    - Populi - People
+    - Arcana - Secrets, spying

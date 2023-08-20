@@ -1,12 +1,20 @@
 
 # Names
 
+## Keep SKIRM
+
+- SECURE - Capture asset
+- KILL - Assassinate target/destroy asset
+- INFILTRATE - Place beacons
+- RECON - Gather intel
+- MISSIONS/MANEUVERS
+
 ## Examples
 
 - BladePoint
 - BladeReach
 - Breakpoint Ops
-- Coldfire Chronicle
+- Coldfire Chronicles
 - Covert Shield
 - Dark Nexus
 - DarkStrike Chronicles (implies campaign/narrative)
@@ -22,6 +30,7 @@
 - **Strike Squad**
 - Strike Team
 - Vanguard Ops
+- **BlackOps Zero**
 
 (From ChatGPT)
 - VoidStrike: Galactic Assault
