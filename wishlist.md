@@ -2,20 +2,13 @@
 
 # To Do
 
-- [ ] Rename
-- [ ] Get domain
-- [ ] Build app  
-  Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)
 - [ ] Special objectives on each turn
 - [ ] Operative conversion (from KT or DZ or GDFF)
 - [ ] Progression/narrative
 - [ ] Coop and solo modes
-- [ ] Lucky dice (DZ exploding 8s, W&G "special" dice) - Still on the fence.  
-Already have 1s count as 2 successes
 - [ ] Mission generator - Objectives and bonuses
 - [ ] Introduce Magic attacks?
 - [ ] Some minis are 40 or 50mm; how to make them fit on the grid?
-- [ ] Think about double success on 1s vs success chains
 
 ## Done
 
@@ -43,6 +36,11 @@ Already have 1s count as 2 successes
 - [x] ~~Damage - Remove altogether, and all successful hits deal 1 damage? (GDFF)~~ - **No, make it explicit and simple**
 - [x] ~~Figure out overwatch~~
 - [x] ~~Reorder rulebook for more intuitive reading/browsing~~
+- [x] ~~Rename~~
+- [x] ~~Get domain~~
+- [x] ~~Build app - Online dashboard & team manager (plus some kind of social aspect, Elo ratings, tourneys) with team/faction themes (colors and fonts)~~
+- [x] ~~Lucky dice (DZ exploding 8s, W&G "special" dice) - Still on the fence. Already have 1s count as 2 successes~~
+- [x] ~~Think about double success on 1s vs success chains~~
 
 # Notes
 
@@ -50,21 +48,7 @@ Already have 1s count as 2 successes
 - Per team tactics
   - Replaces ploys
   - Must use TOs
-- Bring back special die?
-  - Explode special die on critical success?
-    - Or any success? Could have regular dice explode on critical, special die explode on any success
-  - Something else?
-  - Critical success on special die gives a TO?
 - Rivalries!
   - Advantage/disadvantage vs specific teams/tags
 - Quirks
   - Think space marine gene taints for example
-- Really think about X- vs X+ on rolls
-- Need overwatch mechanism
-  - Shoot only?
-  - Any action?
-  - Spend AP during activation to set up "sentry" (= overwatch)?
-- Squad building
-  - Predefined only
-  - Eq pts
-- Remove Medic from Terran Knights, but only once we have another team defined that has a Medic (just don't want to lose that write-up)
